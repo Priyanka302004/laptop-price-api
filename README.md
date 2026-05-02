@@ -1,6 +1,12 @@
 # 🚀 Laptop Price Prediction API
 
-A backend API built using FastAPI that predicts laptop prices based on user input.
+⭐ Backend API built with FastAPI + Machine Learning integration
+
+## 🔥 Features
+- REST API for price prediction
+- FastAPI backend
+- ML model integration
+- JSON request/response
 
 ## 🔧 Tech Stack
 - Python
@@ -8,6 +14,6 @@ A backend API built using FastAPI that predicts laptop prices based on user inpu
 - Scikit-learn
 - NumPy
 
-## ▶️ Run Project
+## 🚀 Run Locally
 ```bash
 uvicorn main:app --reload
